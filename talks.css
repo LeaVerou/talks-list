@@ -92,6 +92,7 @@ ul.talks > li {
 		
 		.talks h2 a:hover {
 			background: #f06;
+			color: white;
 		}
 	
 	.talks h3 {
