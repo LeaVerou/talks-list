@@ -150,6 +150,7 @@ ul.talks > li {
 	.talks address.country-fr:before { content: url(flags/fr.png); }
 	.talks address.country-ph:before { content: url(flags/ph.png); }
 	.talks address.country-at:before { content: url(flags/at.png); }
+	.talks address.country-es:before { content: url(flags/es.png); }
 	
 	.talks .comment,
 	.talks .comment a {
