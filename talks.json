@@ -38,6 +38,12 @@
 		"country": "gb",
 		"city": "Oxford, UK"
 	}, {
+		"name": "jQuery",
+		"url": "http://jqueryto.com/",
+		"date": "2014-03-15",
+		"country": "ca",
+		"city": "Toronto, Canada"
+	}, {
 		"type": "Keynote",
 		"name": "O’Reilly Fluent 2014",
 		"url": "http://fluentconf.com/fluent2014",
