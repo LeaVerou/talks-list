@@ -1,11 +1,35 @@
 [
 	{
+		"title": "The Chroma Zone: Engineering Color on the Web", 
+		"type": "Keynote",
+		"name": "WebVisions Barcelona",
+		"url": "http://www.webvisionsevent.com/barcelona/",
+		"date": "2014-09-19",
+		"country": "es",
+		"city": "Barcelona, Spain"
+	}, {
+		"name": "CSSConf US",
+		"url": "http://2014.cssconf.com/",
+		"date": "2014-05-27",
+		"country": "us",
+		"city": "Amelia Island, FL, USA"
+	}, {
+		"title": "The Chroma Zone: Engineering Color on the Web", 
+		"type": "Keynote",
+		"name": "MoDevUX",
+		"url": "http://ux14.gomodev.com/",
+		"date": "2014-05-20",
+		"country": "us",
+		"city": "McLean, VA, USA"
+	}, {
+		"title": "The Chroma Zone: Engineering Color on the Web", 
 		"name": "jQuery UK",
 		"url": "http://jqueryuk.com/",
 		"date": "2014-05-16",
 		"country": "gb",
 		"city": "Oxford, UK"
 	}, {
+		"title": "The Chroma Zone: Engineering Color on the Web", 
 		"name": "Front-Trends 2014",
 		"url": "http://front-trends.com",
 		"date": "2014-05-07",
@@ -13,11 +37,19 @@
 		"country": "pl",
 		"city": "Warsaw, Poland"
 	}, {
+		"title": "The Chroma Zone: Engineering Color on the Web", 
 		"name": "An Event Apart Boston 2014",
 		"url": "http://aneventapart.com/event/boston-2014",
 		"date": "2014-04-28",
 		"country": "us",
 		"city": "Boston, MA, USA"
+	}, {
+		"title": "The Chroma Zone: Engineering Color on the Web", 
+		"name": "CSSConf AU",
+		"url": "http://2014.cssconf.com.au/",
+		"date": "2014-04-09",
+		"country": "au",
+		"city": "Melbourne, Australia"
 	}, {
 		"name": "",
 		"url": "",
@@ -25,25 +57,29 @@
 		"country": "",
 		"city": ""
 	}, {
+		"sessions": [{"title":"The Chroma Zone: Engineering Color on the Web", "type": "Keynote"}, { "title": "CSS: Beyond the basics", "type": "Workshop" }],
 		"name": "Codemania",
 		"url": "http://codemania.co.nz/",
 		"date": "2014-04-04",
 		"country": "nz",
 		"city": "Auckland, New Zealand"
 	}, {
-		"sessions": ["TBD", { "title": "TBD", "type": "Workshop" }],
+		"sessions": ["The Chroma Zone: Engineering Color on the Web", { "title": "CSS: Beyond the basics", "type": "Workshop" }],
 		"name": "SmashingConf Oxford",
 		"url": "http://smashingconf.com/",
 		"date": "2014-03-18",
 		"country": "gb",
 		"city": "Oxford, UK"
 	}, {
+		"title": "The Chroma Zone: Engineering Color on the Web",
+		"type": "Keynote", 
 		"name": "jQuery",
 		"url": "http://jqueryto.com/",
 		"date": "2014-03-15",
 		"country": "ca",
 		"city": "Toronto, Canada"
 	}, {
+		"title": "The Humble border-radius",
 		"type": "Keynote",
 		"name": "O’Reilly Fluent 2014",
 		"url": "http://fluentconf.com/fluent2014",
@@ -51,6 +87,8 @@
 		"country": "us",
 		"city": "San Francisco, CA, USA"
 	}, {
+		"title": "The Chroma Zone: Engineering Color on the Web",
+		"type": "Keynote",
 		"name": "kod.io",
 		"url": "http://linz.kod.io/",
 		"date": "2014-03-01",
