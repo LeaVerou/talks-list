@@ -4,7 +4,7 @@
 		"type": "Keynote",
 		"name": "WebVisions Barcelona",
 		"url": "http://www.webvisionsevent.com/barcelona/",
-		"date": "2014-09-19",
+		"date": "2014-09-20",
 		"country": "es",
 		"city": "Barcelona, Spain"
 	}, {
@@ -57,7 +57,7 @@
 		"country": "",
 		"city": ""
 	}, {
-		"sessions": [{"title":"The Chroma Zone: Engineering Color on the Web", "type": "Keynote"}, { "title": "CSS: Beyond the basics", "type": "Workshop" }],
+		"sessions": [{"title":"The Chroma Zone: Engineering Color on the Web", "type": "Keynote"}, { "title": "CSS Visual Effects masterclass", "type": "Workshop" }],
 		"name": "Codemania",
 		"url": "http://codemania.co.nz/",
 		"date": "2014-04-04",
