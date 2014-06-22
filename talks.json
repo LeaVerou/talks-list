@@ -1,10 +1,9 @@
 [
 	{
-		"title": "The Chroma Zone: Engineering Color on the Web", 
-		"type": "Keynote",
+		"sessions": [{"title":"The Chroma Zone: Engineering Color on the Web", "type": "Keynote"}, { "title": "CSS Visual Effects masterclass", "type": "Workshop" }],
 		"name": "WebVisions Barcelona",
 		"url": "http://www.webvisionsevent.com/barcelona/",
-		"date": "2014-09-20",
+		"date": "2014-06-20",
 		"country": "es",
 		"city": "Barcelona, Spain"
 	}, {
