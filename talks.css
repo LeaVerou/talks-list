@@ -154,6 +154,7 @@ ul.talks > li {
 	.talks address.country-hu:before { content: url(flags/hu.png); }
 	.talks address.country-mx:before { content: url(flags/mx.png); }
 	.talks address.country-in:before { content: url(flags/in.png); }
+	.talks address.country-uy:before { content: url(flags/uy.png); }
 	
 	.talks .comment,
 	.talks .comment a {
