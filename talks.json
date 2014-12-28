@@ -13,6 +13,7 @@
 		"country": "es",
 		"city": "Barcelona, Spain"
 	}, {
+		"title": "The Chroma Zone: Engineering Color on the Web",
 		"name": "CSSConf US",
 		"url": "http://2014.cssconf.com/",
 		"date": "2014-05-27",
@@ -100,6 +101,7 @@
 		"country": "at",
 		"city": "Linz, Austria"
 	}, {
+		"title": "/Reg(exp){2}lained/: Demystifying Regular Expressions",
 		"name": "London JS Conf",
 		"url": "http://www.londonjsconf.com/",
 		"date": "2014-02-13",
