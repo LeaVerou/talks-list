@@ -1,11 +1,5 @@
 [
 	{
-		"name": "SmashingConf New York",
-		"url": "http://lanyrd.com/2015/smashingconf/",
-		"date": "2015-06-15",
-		"country": "us",
-		"city": "New York, USA"
-	}, {
 		"sessions": [{"title":"The Chroma Zone: Engineering Color on the Web", "type": "Keynote"}, { "title": "CSS Visual Effects masterclass", "type": "Workshop" }],
 		"name": "WebVisions Barcelona",
 		"url": "http://www.webvisionsevent.com/barcelona/",
