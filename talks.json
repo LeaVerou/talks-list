@@ -1,5 +1,14 @@
 [
 	{
+		"title": "",
+		"type": "Keynote",
+		"name": "You Gotta Love Frontend",
+		"url": "http://yougottalovefrontend.com",
+		"date": "2015-06-08",
+		"days": 2,
+		"country": "il",
+		"city": "Tel Aviv, Israel"
+	}, {
 		"sessions": [{"title":"The Chroma Zone: Engineering Color on the Web", "type": "Keynote"}, { "title": "CSS Visual Effects masterclass", "type": "Workshop" }],
 		"name": "WebVisions Barcelona",
 		"url": "http://www.webvisionsevent.com/barcelona/",
