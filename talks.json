@@ -1,6 +1,13 @@
 [
 	{
 		"title": "",
+		"name": "CSSconf EU",
+		"url": "http://2015.cssconf.eu/",
+		"date": "2015-09-26",
+		"country": "de",
+		"city": "Berlin, Germany"
+	}, {
+		"title": "",
 		"type": "Keynote",
 		"name": "You Gotta Love Frontend",
 		"url": "http://yougottalovefrontend.com",
@@ -8,13 +15,6 @@
 		"days": 2,
 		"country": "il",
 		"city": "Tel Aviv, Israel"
-	}, {
-		"title": "",
-		"name": "CSSconf EU",
-		"url": "http://2015.cssconf.eu/",
-		"date": "2015-09-26",
-		"country": "de",
-		"city": "Berlin, Germany"
 	}, {
 		"sessions": [{"title":"The Chroma Zone: Engineering Color on the Web", "type": "Keynote"}, { "title": "CSS Visual Effects masterclass", "type": "Workshop" }],
 		"name": "WebVisions Barcelona",
