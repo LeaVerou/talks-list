@@ -1,13 +1,31 @@
 [
 	{
-		"title": "",
+		"title": "The Missing Slice",
 		"name": "CSSconf EU",
 		"url": "http://2015.cssconf.eu/",
 		"date": "2015-09-26",
 		"country": "de",
 		"city": "Berlin, Germany"
 	}, {
-		"title": "",
+		"title": "The Missing Slice",
+		"type": "Talk",
+		"name": "CSSConf",
+		"url": "http://2015.cssconf.com/",
+		"date": "2015-06-18",
+		"days": 2,
+		"country": "us",
+		"city": "New York, USA"
+	}, {
+		"title": "The Missing Slice",
+		"type": "Mystery talk",
+		"name": "SmashingConf NYC",
+		"url": "http://smashingconf.com/",
+		"date": "2015-06-17",
+		"days": 2,
+		"country": "us",
+		"city": "New York, USA"
+	}, {
+		"title": "The Missing Slice",
 		"type": "Keynote",
 		"name": "You Gotta Love Frontend",
 		"url": "http://yougottalovefrontend.com",
