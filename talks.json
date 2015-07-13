@@ -1,11 +1,25 @@
 [
 	{
 		"title": "The Missing Slice",
+		"name": "Joomla World Conference",
+		"url": "http://conference.joomla.org",
+		"date": "2015-11-06",
+		"country": "in",
+		"city": "Bangalore, India"
+	}, {
+		"title": "The Missing Slice",
 		"name": "CSSconf EU",
 		"url": "http://2015.cssconf.eu/",
 		"date": "2015-09-26",
 		"country": "de",
 		"city": "Berlin, Germany"
+	}, {
+		"title": "The Missing Slice",
+		"name": "Coldfront",
+		"url": "https://coldfrontconf.com/",
+		"date": "2015-09-03",
+		"country": "dk",
+		"city": "Copenhagen, Denmark"
 	}, {
 		"title": "The Missing Slice",
 		"type": "Talk",
