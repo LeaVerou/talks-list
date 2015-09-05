@@ -90,6 +90,10 @@ ul.talks > li {
 			background: yellowgreen;
 		}
 		
+		.talks h2 a.paper {
+			background: #b7d;
+		}
+		
 		.talks h2 a:hover {
 			background: #f06;
 			color: white;
@@ -157,6 +161,8 @@ ul.talks > li {
 	.talks address.country-uy:before { content: url(flags/uy.png); }
 	.talks address.country-il:before { content: url(flags/il.png); }
 	.talks address.country-dk:before { content: url(flags/dk.png); }
+	.talks address.country-jp:before { content: url(flags/jp.png); }
+	.talks address.country-cn:before { content: url(flags/cn.png); }
 	
 	.talks .comment,
 	.talks .comment a {

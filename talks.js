@@ -89,7 +89,8 @@ function eventTemplate(event) {
 		type: event.type,
 		slides: event.slides,
 		details: event.details,
-		video: event.video
+		video: event.video,
+		paper: event.paper
 	}];
 	
 	for (var i=0, session; session = event.sessions[i++];) {
@@ -109,6 +110,7 @@ function eventTemplate(event) {
 		eventLink('slides', session.slides, h2);
 		eventLink('details', session.details, h2);
 		eventLink('video', session.video, h2);
+		eventLink('paper', session.paper, h2);
 		
 		li.appendChild(h2);
 	}
