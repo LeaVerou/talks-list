@@ -156,7 +156,7 @@ $$('.talks').forEach(function (list) {
 	var file = list.getAttribute('data-source') || 'talks.json',
 	    xhr = new XMLHttpRequest();
 	
-	xhr.open('GET', file, false);
+	xhr.open('GET', file, true);
 	
 	xhr.onreadystatechange = function () {
 		if (xhr.readyState == 4) {
