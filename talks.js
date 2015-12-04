@@ -203,8 +203,6 @@ $$('.talks').forEach(function (list) {
 					
 				});
 				
-				window.console && console.log(count);
-				
 				if (count.past) {
 					var listPast = list.cloneNode();
 					
