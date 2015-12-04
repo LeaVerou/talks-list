@@ -216,14 +216,16 @@ $$('.talks').forEach(function (list) {
 					listPast.appendChild(fragmentPast);
 				}
 				
-				if (count.upcoming) {
-					var h1Upcoming = element("h1", "Upcoming", { id: "upcoming" });
-					list.parentNode.insertBefore(h1Upcoming, list);
-					
-					h1Upcoming.appendChild(element('span', " (" + count.upcoming + " events)", { "class": "count" }));
-					
-					list.appendChild(fragmentUpcoming)
-				}
+                var h1Upcoming = element("h1", "Upcoming", { id: "upcoming" });
+                list.parentNode.insertBefore(h1Upcoming, list);
+                if (count.upcoming) {
+                    h1Upcoming.appendChild(element('span', " (" + count.upcoming + " events)", { "class": "count" }));
+                    list.appendChild(fragmentUpcoming);
+                }
+                else {
+                    h1Upcoming.appendChild(element('span', " (no event)", { "class": "count" }));
+                    list.appendChild(element('p', "More speaking gigs coming soon, stay tuned!"));
+                }
 				
 			}
 			else {
