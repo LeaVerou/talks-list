@@ -7,7 +7,7 @@ var MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oc
 function formatDate(event) {
 	var date = new Date(event.date);
 	var month = MONTHS[date.getMonth()];
-	var day = date.getDate();
+	var day = date.getUTCDate();
 	
 	/*if (event.days) {
 		var endDate = new Date(date);
