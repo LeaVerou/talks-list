@@ -1,11 +1,32 @@
 [
 	{
+		"title": "TBD",
+		"name": "HTML Day",
+		"url": "http://cssday.nl/2016",
+		"date": "2016-06-17",
+		"country": "nl",
+		"city": "Amsterdam, The Netherlands"
+	}, {
+		"title": "TBD",
+		"name": "FOWD London",
+		"url": "https://futureofwebdesign.com/london-2016/",
+		"date": "2016-04-25",
+		"country": "gb",
+		"city": "London, UK"
+	}, {
 		"title": "The Missing Slice",
 		"name": "Joomla World Conference",
 		"url": "http://conference.joomla.org",
 		"date": "2015-11-06",
 		"country": "in",
 		"city": "Bangalore, India"
+	}, {
+		"title": "The Missing Slice",
+		"name": "View Source",
+		"url": "https://viewsourceconf.org/",
+		"date": "2015-11-03",
+		"country": "us",
+		"city": "Portland, Oregon, USA"
 	}, {
 		"title": "The Missing Slice",
 		"name": "CSSconf EU",
