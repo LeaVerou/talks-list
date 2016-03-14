@@ -1,18 +1,36 @@
 [
 	{
-		"title": "TBD",
+		"name": "Web Unleashed",
+		"url": "http://fitc.ca/",
+		"date": "2016-10-03",
+		"days": 2,
+		"country": "ca",
+		"city": "Toronto, Canada"
+	}, {
+		"name": "Generate London",
+		"url": "http://www.generateconf.com",
+		"date": "2016-09-21",
+		"days": 3,
+		"country": "gb",
+		"city": "London, UK"
+	}, {
+		"name": "BrazilJS",
+		"url": "https://braziljs.org/conf",
+		"date": "2016-08-26",
+		"country": "br",
+		"city": "Porto Alegre, Brazil"
+	}, {
+		"name": "YGLF 2016",
+		"url": "http://yougottalovefrontend.com/#page-home",
+		"date": "2016-06-27",
+		"country": "il",
+		"city": "Tel Aviv, Israel"
+	}, {
 		"name": "HTML Day",
 		"url": "http://cssday.nl/2016",
 		"date": "2016-06-17",
 		"country": "nl",
 		"city": "Amsterdam, The Netherlands"
-	}, {
-		"title": "TBD",
-		"name": "FOWD London",
-		"url": "https://futureofwebdesign.com/london-2016/",
-		"date": "2016-04-25",
-		"country": "gb",
-		"city": "London, UK"
 	}, {
 		"title": "The Missing Slice",
 		"name": "Joomla World Conference",
