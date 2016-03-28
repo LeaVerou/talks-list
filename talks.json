@@ -13,6 +13,14 @@
 		"days": 3,
 		"country": "gb",
 		"city": "London, UK"
+	},
+	{
+		"name": "JSChannel, India",
+		"url": "http://2016.jschannel.com",
+		"date": "2016-07-15",
+		"days": 2,
+		"country": "in",
+		"city": "Bangalore, India"
 	}, {
 		"name": "BrazilJS",
 		"url": "https://braziljs.org/conf",
