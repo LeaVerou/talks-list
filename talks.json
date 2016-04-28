@@ -1,19 +1,19 @@
 [
 	{
+		"name": "FrontEndNorth",
+		"url": "",
+		"date": "2016-10-30",
+		"days": 1,
+		"country": "gb",
+		"city": "Sheffield, UK"
+	}, {
 		"name": "Web Unleashed",
 		"url": "http://fitc.ca/",
 		"date": "2016-10-03",
 		"days": 2,
 		"country": "ca",
 		"city": "Toronto, Canada"
-	}, {
-		"name": "Generate London",
-		"url": "http://www.generateconf.com",
-		"date": "2016-09-21",
-		"days": 3,
-		"country": "gb",
-		"city": "London, UK"
-	},
+	}, 
 	{
 		"name": "JSChannel, India",
 		"url": "http://2016.jschannel.com",
